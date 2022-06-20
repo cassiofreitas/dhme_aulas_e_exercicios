@@ -18,7 +18,7 @@ namespace aula12_atividade_1
             NossoTodo.AddTask("Aprender Vue.js");
             NossoTodo.AddTask("Aprender Node.js");
             NossoTodo.AddTask("Abobora");
-            NossoTodo.AtualizaTask("Aprender C#", "Aprender C# do jeito certo");            {
+            NossoTodo.AtualizaTask("Aprender C#", "Aprender C# do jeito certo");
             NossoTodo.ListaTasks();
             NossoTodo.RemoveTask("Abobora");
             NossoTodo.ShowTask(0);
