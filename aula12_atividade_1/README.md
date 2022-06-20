@@ -9,4 +9,6 @@
 
 ------------------------------------
 Observações:
-- 
+- A equipe decidiu desenhar a solução em conjunto e gerar apenas um código.
+- Maior problema do dia: List.IndexOf( <string> ), quando não localiza o item, retorna o índice -1; não fizemos checagem de erro no método e isso nos tomou tempo para depurar
+
