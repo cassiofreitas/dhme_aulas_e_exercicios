@@ -10,3 +10,15 @@
 ## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/12/ENTREGA.md)
 
 -------------------------------------
+
+## Room 3 - Aula 21/06/2022
+## [Enum, Dictionary, Hashtable, SortedList e Iterador](./aula13_atividade_1)
+## Participantes
+- [cassiofreitas](https://github.com/cassiofreitas)
+- [mairaholi]()
+- [jaquerossetto]()
+- [laisbaltar]()
+
+## [Link para a entrega da atividade]()
+
+-------------------------------------
