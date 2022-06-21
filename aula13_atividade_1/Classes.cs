@@ -9,22 +9,22 @@ namespace aula13_atividade_1
     public class Aluno
     {
         public int Matricula;
-        public string Nome;
-        public string Sobrenome;
-        public int telefone;
+        public string? Nome;
+        public string? Sobrenome;
+        public int Telefone;
     }
     internal class Escola
     {
         private Dictionary<int,Aluno> Matriculados = new Dictionary<int, Aluno>();
-        public void CadastrarAluno()
+        public void CadastrarAluno(int NumeroMatricula, string? Nome, string? Sobrenome, int Telefone)
         {
             Aluno NossoAluno = new Aluno();
-            NossoAluno.Matricula = 1;
-            NossoAluno.Nome = "Maria";
-            NossoAluno.Sobrenome = "Jose";
-            NossoAluno.telefone = 99995555;
+            NossoAluno.Matricula = NumeroMatricula;
+            NossoAluno.Nome = Nome;
+            NossoAluno.Sobrenome = Sobrenome;
+            NossoAluno.Telefone = Telefone;
 
-            Matriculados.TryAdd(0, NossoAluno);
+            Matriculados.TryAdd(Matriculados.Count(), NossoAluno);
         }
         public void RemoverAluno()
         {
