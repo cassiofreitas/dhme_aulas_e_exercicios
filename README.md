@@ -7,6 +7,6 @@
 - [santanagabi](https://github.com/santanagabi)
 - [hugogdiniz](https://github.com/hugogdiniz)
 
-##[Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/12/ENTREGA.md)
+## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/12/ENTREGA.md)
 
-------------------------------------
+-------------------------------------
