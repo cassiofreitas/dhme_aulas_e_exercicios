@@ -32,7 +32,7 @@ namespace aula13_atividade_1
         }
         public void ListarMatriculas()
         {
-
+            Console.WriteLine(Matriculados[0].Nome);
         }
     }
 }

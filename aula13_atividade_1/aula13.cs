@@ -20,7 +20,6 @@ namespace aula13_atividade_1
     {
         static void Main(string[] args)
         {
-            Escola.
             Console.WriteLine("Hello, World!");
         }
     }
