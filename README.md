@@ -22,3 +22,14 @@
 ## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/edit/main/13/ENTREGA.md)
 
 -------------------------------------
+
+## Room 3 - Aula 22/06/2022
+## [Aplicação prática dos conceitos de OOP](./aula14_atividade_1)
+## Participantes
+- [cassiofreitas](https://github.com/cassiofreitas)
+- [Matheus](https://github.com/Kaoticz)
+- [LuanME ](https://github.com/LuanME)
+
+## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/14/ENTREGA.md)
+
+------------------------------
