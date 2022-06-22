@@ -1,10 +1,9 @@
-﻿namespace aula14_atividade_1
+namespace Aula14Atividade1;
+
+internal class Program
 {
-    internal class aula14
+    private static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        Console.WriteLine("Hello, World!");
     }
 }
