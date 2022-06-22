@@ -17,7 +17,7 @@ namespace aula13_atividade_1
         static void Main(string[] args)
         {
             Escola NossaEscola = new Escola();
-            CatalogoErros RespostaDoServidor;
+            int RespostaDoServidor;
 
             Console.Write("-[ Inserindo novos alunos ");
             NossaEscola.CadastrarAluno(1,"Maria","Jose",555999);
@@ -40,7 +40,7 @@ namespace aula13_atividade_1
             Console.WriteLine("]-");
 
             Console.WriteLine($"-[ Testando Catalogo de Erros para {CatalogoErros.Redirecionamento_permanente}");
-            RespostaDoServidor = CatalogoErros.Redirecionamento_permanente;
+            RespostaDoServidor = (int)CatalogoErros.Redirecionamento_permanente;
             Console.Write($"Resposta do Servidor = {RespostaDoServidor}");
             Console.WriteLine(" ]-");
         }
