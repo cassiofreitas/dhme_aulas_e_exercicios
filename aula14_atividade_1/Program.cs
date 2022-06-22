@@ -4,6 +4,6 @@ internal class Program
 {
     private static void Main()
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Test Course and Company here.");
     }
 }

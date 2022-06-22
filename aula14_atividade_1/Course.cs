@@ -4,23 +4,23 @@ namespace Aula14Atividade1;
 
 internal class Course : Administration<Student>
 {
+    private readonly Dictionary<int, Student> _students = new();
+
     public override bool Register(Student entity)
-    {
-        throw new NotImplementedException();
-    }
+        => _students.TryAdd(entity.Registration, entity);
 
     public override bool Remove(Student entity)
-    {
-        throw new NotImplementedException();
-    }
+        => _students.Remove(entity.Registration);
 
     public override bool Update(Student entity)
     {
-        throw new NotImplementedException();
+        if (_students.TryGetValue(entity.Registration, out _))
+            return false;
+
+        _students[entity.Registration] = entity;
+        return true;
     }
 
     public override IReadOnlyList<Student> List()
-    {
-        throw new NotImplementedException();
-    }
+        => _students.Values.ToArray();
 }

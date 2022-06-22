@@ -1,30 +1,45 @@
+using System.Text;
+
 namespace Aula14Atividade1;
 
 internal class Student
 {
-    public string Registration { get; set; }
+    public int Registration { get; set; }
     public string Name { get; set; }
     public string Surname { get; set; }
     public string Phone { get; set; }
-    public double[] Grades { get; set; } = new double[4];
+    public double[] Grades { get; private set; } = new double[4];
 
-    public void Update()
+    public void Update(Student student)
     {
-
+        Registration = student.Registration;
+        Name = student.Name;
+        Surname = student.Surname;
+        Phone = student.Phone;
+        Grades = student.Grades;
     }
-    public void SetGrade(int bimester, double grade)
-    {
 
+    public bool SetGrade(int bimester, double grade)
+    {
+        if (bimester is < 1 or > 4)
+            return false;
+
+        Grades[--bimester] = grade;
+        return true;
     }
 
-    public void ShowGrades()
+    public string ShowGrades()
     {
+        var result = new StringBuilder();
+
+        for (var index = 0; index < Grades.Length; index++)
+            result.AppendLine($"{index + 1}° Bimestre / Nota {Grades[index]}");
+
+        return result.ToString();
     }
 
     public bool IsApproved()
-    {
-        return AverageGrade() > 6;
-    }
+        => AverageGrade() > 6.0;
 
     public double AverageGrade()
     {
@@ -33,6 +48,6 @@ internal class Student
         foreach (var grade in Grades)
             sum += grade;
 
-        return sum / 4;
+        return sum / Grades.Length;
     }
 }
