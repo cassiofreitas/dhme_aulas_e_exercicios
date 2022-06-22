@@ -15,10 +15,10 @@
 ## [Enum, Dictionary, Hashtable, SortedList e Iterador](./aula13_atividade_1)
 ## Participantes
 - [cassiofreitas](https://github.com/cassiofreitas)
-- [mairaholi]()
-- [jaquerossetto]()
-- [laisbaltar]()
+- [mairaholi](https://github.com/mairaholi)
+- [jaquerossetto](https://github.com/jaquerossetto)
+- [laisbaltar](https://github.com/laisbaltar)
 
-## [Link para a entrega da atividade]()
+## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/edit/main/13/ENTREGA.md)
 
 -------------------------------------
