@@ -19,7 +19,7 @@ internal class Student
     public void Apresentar_notas()
     { 
     }
-    public void Estágio_do_aluno()
+    public bool Estágio_do_aluno()
     {
         return Status;
 }
