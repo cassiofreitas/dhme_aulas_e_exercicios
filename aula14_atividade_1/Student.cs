@@ -23,9 +23,14 @@ internal class Student
     {
         return Status;
 }
-    public void Média_aluno()
+    public double Média_aluno()
     {
-         
+        var soma = 0.0;
+         foreach (var item in Notas)
+        {
+            soma += item.Value;
+        }
+         return soma / 4; 
     }
 
 
