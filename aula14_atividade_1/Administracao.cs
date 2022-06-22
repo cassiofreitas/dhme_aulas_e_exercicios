@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace aula14_atividade_1
 {
-    internal class Classes
+    internal class Administracao
     {
     }
 }
