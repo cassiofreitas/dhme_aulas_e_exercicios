@@ -14,7 +14,7 @@ internal class Course : Administration<Student>
 
     public override bool Update(Student entity)
     {
-        if (_students.TryGetValue(entity.Registration, out _))
+        if (_students.ContainsKey(entity.Registration))
             return false;
 
         _students[entity.Registration] = entity;
