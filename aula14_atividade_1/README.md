@@ -2,8 +2,7 @@
 ## [Aplicação prática dos conceitos de OOP](./aula14_atividade_1)
 ## Participantes
 - [cassiofreitas](https://github.com/cassiofreitas)
-- []()
-- []()
-- []()
+- [Kaoticz](https://github.com/Kaoticz)
+- [LuanME ](https://github.com/LuanME)
 
 ------------------------------
