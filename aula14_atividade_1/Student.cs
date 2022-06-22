@@ -1,38 +1,38 @@
 namespace Aula14Atividade1;
+
 internal class Student
 {
-    public string Matricula { get; set; }
-    public string Nome { get; set; }
-    public string Sobrenome { get; set; }
-    public string Telefone { get; set; }
-    public Dictionary<int, double> Notas { get; set; } = new Dictionary<int, double> ();
-    private bool Status = true;
+    public string Registration { get; set; }
+    public string Name { get; set; }
+    public string Surname { get; set; }
+    public string Phone { get; set; }
+    public double[] Grades { get; set; } = new double[4];
 
-    public void Atualizar_cadastro()
+    public void Update()
     {
 
     }
-    public void Registrar_nota()
+    public void SetGrade(int bimester, double grade)
     {
 
     }
-    public void Apresentar_notas()
-    { 
-    }
-    public bool Estágio_do_aluno()
+
+    public void ShowGrades()
     {
-        return Status;
-}
-    public double Média_aluno()
-    {
-        var soma = 0.0;
-         foreach (var item in Notas)
-        {
-            soma += item.Value;
-        }
-         return soma / 4; 
     }
 
+    public bool IsApproved()
+    {
+        return AverageGrade() > 6;
+    }
 
+    public double AverageGrade()
+    {
+        var sum = 0.0;
 
+        foreach (var grade in Grades)
+            sum += grade;
+
+        return sum / 4;
+    }
 }
