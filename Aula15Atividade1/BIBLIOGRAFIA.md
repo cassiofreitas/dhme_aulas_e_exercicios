@@ -21,9 +21,12 @@
 ### 🔗 [Enumeration](https://www.geeksforgeeks.org/c-sharp-enumeration-or-enum/)
 ### 
 
+<br>
+<br>
+
 - ## 💰 XML 
 
 ### 🔗 [Guia XML - Microsoft ](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/xmldoc/recommended-tags)
 ### 🔗 [Curso básico XML](https://www.macoratti.net/12/09/xml_cur2.htm#:~:text=Para%20criar%20um%20novo%20arquivo,Markup%20Language%20(XML)%201.0.)
 ### 🔗[Salvando e lendo arquivos em XML](https://www.macoratti.net/14/11/c_xml1.htm)
-### [Manipulando arquivos XML em C#](http://www.linhadecodigo.com.br/artigo/3449/manipulando-arquivos-xml-em-csharp.aspx)
+### 🔗 [Manipulando arquivos XML em C#](http://www.linhadecodigo.com.br/artigo/3449/manipulando-arquivos-xml-em-csharp.aspx)
