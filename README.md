@@ -40,7 +40,7 @@
 - [cassiofreitas](https://github.com/cassiofreitas)
 - [isabelalvescatao](https://github.com/isabelalvescatao)
 - [renatakim](https://github.com/renatakim)
-- [sabrinahelena](https://github.com/sabrinahelenam)
+- [sabrinahelena](https://github.com/sabrinahelena)
 
 ## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/15/ENTREGA.md)
 
