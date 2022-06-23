@@ -1,8 +1,10 @@
-## Room 3 - Aula 22/06/2022
-## [Aplicação prática dos conceitos de OOP](./aula14_atividade_1)
+## Room 3 - Aula 23/06/2022
+## [CheckPoint](./Aula15Atividade1)
 ## Participantes
 - [cassiofreitas](https://github.com/cassiofreitas)
-- [Matheus](https://github.com/Kaoticz)
-- [LuanME ](https://github.com/LuanME)
+- [isabelalvescatao](https://github.com/isabelalvescatao)
+- [renatakim](https://github.com/renatakim)
+- [sabrinahelena](https://github.com/sabrinahelena)
 
 ------------------------------
+
