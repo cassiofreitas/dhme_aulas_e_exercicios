@@ -1,10 +1,23 @@
-## Room 3 - Aula 23/06/2022
-## [CheckPoint](./Aula15Atividade1)
+# 💰 Projeto - Conversão de moedas
+<br>
+
+## Sumário
+<br>
+
+- ### [CheckPoint](Aula15Atividade1.csproj)
+- ### [Histórico](HISTORICO.md)
+- ### [Bibliografia](BIBLIOGRAFIA.md)
+
+<br>
+
 ## Participantes
-- [cassiofreitas](https://github.com/cassiofreitas)
-- [isabelalvescatao](https://github.com/isabelalvescatao)
-- [renatakim](https://github.com/renatakim)
-- [sabrinahelena](https://github.com/sabrinahelena)
+
+<br>
+
+- ### [Cassio Freitas](https://github.com/cassiofreitas)
+- ### [Isabel Alves Catao](https://github.com/isabelalvescatao)
+- ### [Renata Kim](https://github.com/renatakim)
+- ### [Sabrina Helena](https://github.com/sabrinahelena)
 
 ------------------------------
 
