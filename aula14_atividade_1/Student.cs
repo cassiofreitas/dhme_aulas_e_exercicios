@@ -21,7 +21,7 @@ internal class Student
 
     public bool SetGrade(int bimester, double grade)
     {
-        if (bimester is < 1 or > 4 || grade is <= 0 or > 10)
+        if (bimester is < 1 or > 4 || grade is < 0 or > 10)
             return false;
 
         Grades[--bimester] = grade;
