@@ -35,7 +35,7 @@
 ------------------------------
 
 ## Room 3 - Aula 23/06/2022
-## [CheckPoint](./aula15_atividade_1)
+## [CheckPoint](./Aula15Atividade1)
 ## Participantes
 - [cassiofreitas](https://github.com/cassiofreitas)
 - [isabelalvescatao](https://github.com/isabelalvescatao)
