@@ -33,3 +33,14 @@
 ## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/14/ENTREGA.md)
 
 ------------------------------
+
+## Room 3 - Aula 23/06/2022
+## [CheckPoint](./aula15_atividade_1)
+## Participantes
+- [cassiofreitas](https://github.com/cassiofreitas)
+- [isabelalvescatao](https://github.com/isabelalvescatao)
+- [renatakim](https://github.com/renatakim)
+
+## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/15/ENTREGA.md)
+
+------------------------------
