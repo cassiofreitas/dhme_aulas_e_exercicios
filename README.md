@@ -1,5 +1,5 @@
 # dhme_aulas_e_exercicios
-## Room 1 - Aula 20/06/2022
+## Room 1 - Aula 12: 20/06/2022
 ## [Arrays bidimensionais, List, ArrayList](./aula12_atividade_1)
 ## Participantes
 - [cassiofreitas](https://github.com/cassiofreitas)
@@ -11,7 +11,7 @@
 
 -------------------------------------
 
-## Room 3 - Aula 21/06/2022
+## Room 3 - Aula 13: 21/06/2022
 ## [Enum, Dictionary, Hashtable, SortedList e Iterador](./aula13_atividade_1)
 ## Participantes
 - [cassiofreitas](https://github.com/cassiofreitas)
@@ -23,7 +23,7 @@
 
 -------------------------------------
 
-## Room 3 - Aula 22/06/2022
+## Room 3 - Aula 14: 22/06/2022
 ## [Aplicação prática dos conceitos de OOP](./aula14_atividade_1)
 ## Participantes
 - [cassiofreitas](https://github.com/cassiofreitas)
@@ -34,7 +34,7 @@
 
 ------------------------------
 
-## Room 3 - Aula 23/06/2022
+## Room 3 - Aula 15: 23/06/2022
 ## [CheckPoint](./Aula15Atividade1)
 ## Participantes
 - [cassiofreitas](https://github.com/cassiofreitas)
@@ -45,3 +45,16 @@
 ## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/15/ENTREGA.md)
 
 ------------------------------
+
+## Room 3 - Aula 16: 24/06/2022
+## [CheckPoint](./Aula16Atividade1)
+## Participantes
+- [cassiofreitas](https://github.com/cassiofreitas)
+- [hiroyuki222](https://github.com/hiroyuki222)
+- [fabsdk](https://github.com/fabsdk)
+- [hugogdiniz](https://github.com/hugogdiniz)
+
+## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/16/ENTREGA.md)
+
+------------------------------
+
