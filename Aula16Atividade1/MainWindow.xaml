@@ -57,9 +57,9 @@
             </MenuItem>
         </Menu>
         <Menu HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="11">
-            <MenuItem Header="" >
+            <MenuItem Header="" Width="26" Height="56" >
                 <MenuItem.Icon>
-                    <Image Source="engrenagem.png"/>
+                    <Image Source="/engrenagem.png"/>
                 </MenuItem.Icon>
             </MenuItem>
         </Menu>
