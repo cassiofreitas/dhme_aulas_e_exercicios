@@ -47,7 +47,7 @@
 ------------------------------
 
 ## Room 3 - Aula 16: 24/06/2022
-## [CheckPoint](./Aula16Atividade1)
+## [WPF com C#](./Aula16Atividade1)
 ## Participantes
 - [cassiofreitas](https://github.com/cassiofreitas)
 - [hiroyuki222](https://github.com/hiroyuki222)
