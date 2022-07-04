@@ -24,7 +24,7 @@
 -------------------------------------
 
 ## Room 3 - Aula 14: 22/06/2022
-## [Aplica��o pr�tica dos conceitos de OOP](./aula14_atividade_1)
+## [Aplicação prática dos conceitos de OOP](./aula14_atividade_1)
 ## Participantes
 - [cassiofreitas](https://github.com/cassiofreitas)
 - [Matheus](https://github.com/Kaoticz)
@@ -58,3 +58,14 @@
 
 ------------------------------
 
+## Room 2 - Aula 21: 24/06/2022
+## [Introdução à banco de dados](./Aula16Atividade1)
+## Participantes
+- [cassiofreitas](https://github.com/cassiofreitas)
+- [hiroyuki222](https://github.com/hiroyuki222)
+- [fabsdk](https://github.com/fabsdk)
+- [hugogdiniz](https://github.com/hugogdiniz)
+
+## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/16/ENTREGA.md)
+
+------------------------------
