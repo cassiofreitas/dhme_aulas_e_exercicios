@@ -62,6 +62,10 @@
 ## [Introdução à banco de dados](./Aula21Atividade1)
 ## Participantes
 - [cassiofreitas](https://github.com/cassiofreitas)
+- [laisbaltar](https://github.com/laisbaltar)
+- [sabrinahelena](https://github.com/sabrinahelena)
+- [Mayara Abreu]()
+
 
 ## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/21/ENTREGAS/GRUPO2.md)
 
