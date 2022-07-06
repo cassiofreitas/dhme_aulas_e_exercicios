@@ -66,7 +66,25 @@
 - [sabrinahelena](https://github.com/sabrinahelena)
 - [Mayara Abreu]()
 
-
 ## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/21/ENTREGAS/GRUPO2.md)
+
+------------------------------
+
+## Room 12 - Aula 22 - 05/07/2022 - Participantes:
+## [Exercício com tabelas no banco](./Aula22Atividade1)
+ - [cassiofreitas](https://github.com/cassiofreitas/)
+ - [mayaraarj](https://github.com/mayaraarj)
+ 
+## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/22/ENTREGAS/GRUPO12.md)
+
+------------------------------
+
+## Room 8 - Aula 23 - 06/07/2022 - Participantes:
+## [Exercício com tabelas no banco - relacionamentos](./Aula23Atividade1)
+ - [cassiofreitas](https://github.com/cassiofreitas/)
+ - [fabsdk](https://github.com/fabsdk)
+ - [renatakim](https://github.com/renatakim)
+ 
+## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/23/ENTREGAS/GRUPO8.md)
 
 ------------------------------
