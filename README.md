@@ -88,3 +88,13 @@
 ## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/23/ENTREGAS/GRUPO8.md)
 
 ------------------------------
+
+## Room 9 - Aula 25 - 08/07/2022 - Participantes:
+## [Exercício com tabelas no banco - join - inner,left,right,full](./Aula25Atividade1)
+ - [cassiofreitas](https://github.com/cassiofreitas/)
+ - [CarlaRani]()
+ - [isabelalvescatao](https://github.com/isabelalvescatao)
+ 
+## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/23/ENTREGAS/GRUPO8.md)
+
+------------------------------
