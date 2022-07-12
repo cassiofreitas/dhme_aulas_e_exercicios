@@ -98,3 +98,13 @@
 ## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/23/ENTREGAS/GRUPO8.md)
 
 ------------------------------
+
+## Room 9 - Aula 25 - 12/07/2022 - Participantes:
+## [Atividade com ASP.NET // Razor // BootStrap](./Aula27Atividade1)
+ - [cassiofreitas](https://github.com/cassiofreitas/)
+ - [renatakim]()
+ - [anderlany]()
+ 
+## [Link para a entrega da atividade]()
+
+------------------------------
