@@ -11,12 +11,13 @@
   </head>
   <body>
     <h1>Todo List</h1>
-    <form>
+    <form class="row g-3">
       <div class="col-auto">
-        <input max type="text" class="form-control" id="newTask" placeholder="Add task...">
+        <label for="inputPassword2" class="visually-hidden">Password</label>
+        <input type="password" class="form-control" id="inputPassword2" placeholder="Password">
       </div>
       <div class="col-auto">
-        <button type="submit" class="btn btn-primary">+</button>
+        <button type="submit" class="btn btn-primary mb-3">+</button>
       </div>
     </form>
     @for (var x = 1; x < 10; x++)
