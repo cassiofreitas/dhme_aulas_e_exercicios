@@ -99,7 +99,7 @@
 
 ------------------------------
 
-## Room 9 - Aula 25 - 12/07/2022 - Participantes:
+## Room 9 - Aula 27 - 12/07/2022 - Participantes:
 ## [Atividade com ASP.NET // Razor // BootStrap](./Aula27Atividade1)
  - [cassiofreitas](https://github.com/cassiofreitas/)
  - [renatakim](https://github.com/renatakim)
