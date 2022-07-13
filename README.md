@@ -111,8 +111,8 @@
 
 ## Room 9 - Aula 28 - 13/07/2022 - Participantes:
 ## [Atividade com ASP.NET // Razor // BootStrap](./Aula27Atividade1)
- - [cassiofreitas](https://github.com/cassiofreitas/)
- - [Gabrielle]()
- - [HugoDiniz]()
+ - [Gabrielle Oliveira Santana](https://github.com/santanagabi)
+ - [Cassio Freitas](https://github.com/cassiofreitas)
+ - [Hugo Gonzaga Diniz](https://github.com/Hugogdiniz)
  
-## [Link para a entrega da atividade]()
+## [Link para a entrega da atividade](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/28/ENTREGAS/GRUPO9.md)
