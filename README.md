@@ -108,3 +108,11 @@
 ## [Link para a entrega da atividade]()
 
 ------------------------------
+
+## Room 9 - Aula 28 - 13/07/2022 - Participantes:
+## [Atividade com ASP.NET // Razor // BootStrap](./Aula27Atividade1)
+ - [cassiofreitas](https://github.com/cassiofreitas/)
+ - [Gabrielle]()
+ - [HugoDiniz]()
+ 
+## [Link para a entrega da atividade]()
