@@ -121,7 +121,7 @@
 
 ## Room 7 - Aula 29 - 14/07/2022 - Participantes:
 ## [Atividade com ASP.NET // MVC // EntityFramework](./Aula29)
- - [JaquelineRosseto]()
+ - [JaquelineRosseto](https://github.com/jaquerossetto)
  - [Cassio Freitas](https://github.com/cassiofreitas)
  - [Marcelo Alves]()
  
