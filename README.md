@@ -131,7 +131,7 @@
 
 ## Room 5 - Aula 30 - 15/07/2022 - Participantes:
 ## [Atividade com ASP.NET // MVC // EntityFramework // SQL Server // Relacionamento via ORM](./Aula30)
- - [Nathalia Franca]()
+ - [Nathalia Franca](https://github.com/nathrfranca)
  - [Cassio Freitas](https://github.com/cassiofreitas)
  - [José Iranildo]()
  
