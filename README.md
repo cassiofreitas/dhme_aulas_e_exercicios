@@ -121,9 +121,18 @@
 
 ## Room 7 - Aula 29 - 14/07/2022 - Participantes:
 ## [Atividade com ASP.NET // MVC // EntityFramework](./Aula29)
- - [JaquelineRosseto]()
+ - [JaquelineRosseto](https://github.com/jaquerossetto)
  - [Cassio Freitas](https://github.com/cassiofreitas)
  - [Marcelo Alves]()
  
 ## [Link para a entrega da atividade]()
 
+------------------------------
+
+## Room 5 - Aula 30 - 15/07/2022 - Participantes:
+## [Atividade com ASP.NET // MVC // EntityFramework // SQL Server // Relacionamento via ORM](./Aula30)
+ - [Nathalia Franca](https://github.com/nathrfranca)
+ - [Cassio Freitas](https://github.com/cassiofreitas)
+ - [José Iranildo]()
+ 
+## [Link para a entrega da atividade]()
